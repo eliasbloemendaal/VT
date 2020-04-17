@@ -1,11 +1,2 @@
-### this is a title
-asdfkasdlfjas;dlfk
-asdf
-asd
-fas
-df
-asdf
-sad
-fs
-adf
-sad
+# THIS IS THE README FROM VALID TRADER
+The is the repository for valid trader 
